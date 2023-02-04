@@ -11,7 +11,7 @@ README.md
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 Passionate for learning & exploring new Tech.
-- 🌱 I’m currently learning **WEB DEVELOPMENT,PYTHON, JAVA**
+- 🌱 I’m currently learning **WEB DEVELOPMENT,JAVA**
 - 💬 Ask me about **WEB DEVELOPMENT / Java programming**
 - ⚡ My primary coding language: **JAVA**
 - 😄 Ask me about anything, I'll be happy to help.
